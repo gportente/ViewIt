@@ -3,4 +3,4 @@ View It! is a site that lets you download &amp; view video and photos from Insta
 
 [DEMO](http://agtelegram.altervista.org/)
 
-![Home](https://i.imgur.com/9KXRgqQ.png "")
+![Home](https://imgur.com/a/C3bVp0z "")
